@@ -58,7 +58,6 @@ CREATE TABLE `emp` (
   `comm` int(11) DEFAULT NULL,
   `deptno` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
 --
 -- Dumping data for table `emp`
 --
